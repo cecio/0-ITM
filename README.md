@@ -19,6 +19,8 @@ It has been specifically built for Android base software: it contains a customiz
 
 ## Download Link
 
+(on external site, because of the size)
+
 Will be released soon
 
 ## Image hashes
@@ -47,3 +49,7 @@ If you use an ethernet adapter, you may need to modify udev rules to match the M
 /etc/udev/rules.d/70-persistent-net.rules
 SUBSYSTEM=="net", ACTION=="add", DRIVERS=="?*", ATTR{address}=="XX:XX:XX:YY:YY:YY", ATTR{dev_id}=="0x0", ATTR{type}=="1", KERNEL=="eth*", NAME="eth0"
 ```
+
+## Additional docs
+
+Please see the slide deck of the presentation (PDF)
