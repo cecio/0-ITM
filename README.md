@@ -21,7 +21,7 @@ It has been specifically built for Android base software: it contains a customiz
 
 (on external site, because of the size)
 
-Will be released soon
+https://www.dropbox.com/s/44wt82gf9c5kaot/0itm-2018-07.img.gz?dl=0
 
 ## Image hashes
 
